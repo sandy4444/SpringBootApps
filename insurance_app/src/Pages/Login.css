@@ -1,0 +1,19 @@
+/* CSS for TextField tag */
+.MuiFormControl-root {
+    border: 0;
+    margin: inherit !important;
+    display: inline-flex;
+    padding: 0;
+    position: relative;
+    min-width: -webkit-fill-available !important;
+    flex-direction: column;
+    vertical-align: top;
+}
+
+/* Css for paper */
+.makeStyles-paper-9 {
+    width: 280px;
+    height: auto;
+    margin: 20px auto;
+    padding: 30px;
+}

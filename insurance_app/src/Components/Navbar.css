@@ -1,0 +1,8 @@
+.Right{
+    text-align:left ;
+    align-items: flex-start;
+  }
+.Buttons{
+    text-align: right;
+    align-items: flex-end;
+}
